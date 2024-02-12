@@ -1,7 +1,6 @@
 # C Program Repository
 
-This repository contains a collection of useful Linux scripts that helped me have a better understanding of Shell/Bash Scripting
-
+This repository contains a collection of useful Linux scripts that helped me have a better understanding of C Programming
 ## Scripts
 ### [Memory Inspector](Problem_1.c)
 - This C program prints the memory addresses and contents of the input parameters of the main() function. It focuses on argv, the array of pointers, and command line arguments. The output includes addresses related to argv, individual argv entries, and the strings within each entry along with their respective memory addresses. The goal is to visualize the memory structure associated with the command line arguments.
